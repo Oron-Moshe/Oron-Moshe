@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Oron-Moshe
+- 👀 I’m interested in Programming, Automating, Penetration Testing, DevOps
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: oronmoshewm@gmail.com
+- ⚡ Fun fact: there is no fun
